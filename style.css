@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: #203655;
+    background-color: #FFBF00;
 }
 
 .headerLogo {
@@ -20,7 +20,7 @@ header {
 }
 
 .heroTextTwo {
-    color: #bec0bc;
+    color: black;
     width: 450px;
 }
 
@@ -64,12 +64,12 @@ footer .container {
 .nav {
     display: flex;
     gap: 30px;
-    color: #bec0bc;
+    color: #000000;
 }
 
 .hero {
     height: 500px;
-    background-color: #203655;
+    background-color: #FFBF00;
     display: flex;
     align-items: center;
 }
@@ -86,7 +86,7 @@ footer .container {
 }
 
 .information {
-    background-color: #929491;
+    background-color: #FFFDD0;
     height: 500px;
 }
 
@@ -99,9 +99,9 @@ footer .container {
     align-self: center;
     padding-top: 40px;
     padding-bottom: 40px;
-    font-size: 42px;
+    font-size: 40px;
     font-weight: 800;
-    color: #5d7398;
+    color: #000000;
 }
 
 .imagesInfo {
@@ -116,14 +116,14 @@ footer .container {
 }
 
 .information img {
-    outline: 2px solid #203655;
+    outline: 2px solid #FFBF00;
     width: 200px;
     height: 150px;
 }
 
 .testimonial {
     height: 500px;
-    background-color: aliceblue;
+    background-color: #FAD5A5;
     display: flex;
     align-items: center;
 }
@@ -144,14 +144,14 @@ footer .container {
 .registration {
     height: 400px;
     color: #929491;
-    background-color: #f0f8ff;
+    background-color: #FAD5A5;
 }
 
 .registrationBox {
     display: flex;
     justify-content: space-between;
     padding: 30px 50px 30px 50px;
-    background-color: #203655;
+    background-color: #000000;
     border-radius: 10px;
     align-items: center;
 }
@@ -177,7 +177,7 @@ footer .container {
 .buttonTwo {
     border-radius: 5px;
     border-style: none;
-    background-color: #203655;
+    background-color: #000000;
     outline: 2px solid white;
     color: white;
     height: 30px;
@@ -187,7 +187,7 @@ footer {
     display: flex;
     height: 50px;
     align-items: center;
-    background-color: #203655;
+    background-color: #FFBF00;
     color: white;
 }
 
